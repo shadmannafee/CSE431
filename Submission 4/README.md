@@ -1,13 +1,20 @@
-OverLeaf Link with edit access: https://www.overleaf.com/project/658705bcb0aeafa5663072d8
+Overleaf link with edit access: https://www.overleaf.com/8115737876tpndbqbzrhkg#4516a4
 
-Unlisted Youtube Video:
 
-Paper presentation slides link:
+Link to unlisted YouTube video: https://youtu.be/bhh-hnKhNEg
 
-Group Number:
-26
 
-Group Member:
+Paper title: 
+Toxic Comments Classification using Knowledge Distillation
 
-20341033 shadman ahmad nafee
-20301468 jannatus sakira khondaker
+Paper Presentation:
+https://docs.google.com/presentation/d/1bgarWLiVoa31cjMUkFTPLgJlnCQIHmNYf-0HhdTYI74/edit?usp=sharing
+
+Group Number: 26
+
+Group Members:
+
+20341033 Shadman Ahmad Nafee
+
+
+20301468 Jannatus Sakira Khondaker
