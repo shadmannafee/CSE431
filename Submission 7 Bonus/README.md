@@ -3,4 +3,3 @@
  Final Paper PDF
  Submission Receipt PDF
 
-These should be in this folder.
